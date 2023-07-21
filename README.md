@@ -1,3 +1,5 @@
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jiangwenfan)
+
 ### Hi there 👋
 
 <!--
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 当前页面访问计数
+
+![adlered](https://count.getloli.com/get/@jiangwenfan)
