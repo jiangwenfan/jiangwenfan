@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   自己做的一些pre-commit的代码检查修复工具
 
 ### ~~[残废状态] `language项目` 仓库~~
-该项目的目标是根据第二语言习得理论
+~~该项目的目标是根据第二语言习得理论~~
 - ~~[backend](https://github.com/jiangwenfan/language-backend)~~
   ~~目前私有仓库,后续会开源~~
 - ~~[mobile](https://github.com/jiangwenfan/language-mobile)~~
