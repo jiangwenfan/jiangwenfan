@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 - [pre-commit_tools]("https://github.com/jiangwenfan/pre-commit_tools")
   自己做的一些pre-commit的代码检查修复工具
 
-### ～~[残废状态] `language项目` 仓库~~
+### ~~[残废状态] `language项目` 仓库~~
 该项目的目标是根据第二语言习得理论
 - ~~[backend](https://github.com/jiangwenfan/language-backend)~~
-  目前私有仓库,后续会开源
+  ~~目前私有仓库,后续会开源~~
 - ~~[mobile](https://github.com/jiangwenfan/language-mobile)~~
-  使用flutter实现,残废状态
+  ~~使用flutter实现,残废状态~~
 - ~~[web](https://github.com/jiangwenfan/language-web)~~
-  使用react实现,残废状态
+  ~~使用react实现,残废状态~~
 - ~~[admin](https://github.com/jiangwenfan/language-admin)~~
-  使用react实现,残废状态
+  ~~使用react实现,残废状态~~
