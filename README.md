@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - [pre-commit_tools]("https://github.com/jiangwenfan/pre-commit_tools")
   自己做的一些pre-commit的代码检查修复工具
 
-### `interview项目` 仓库
+### ~~[残废状态]`anki-plus项目` 仓库~~
 - [backend](https://github.com/jiangwenfan/interview-backend)
   使用fastapi实现后端接口
 - [web](https://github.com/jiangwenfan/interview-web)
